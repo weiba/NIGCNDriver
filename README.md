@@ -8,3 +8,6 @@ NIGCNDriver should be run under the environment of python >=3.7.
 - 3.Run python deal_result.py LUAD 
 - 4.Run python condorcet_R.py LUAD
 	- The output of condorcet_R.py is gene ranking.
+	
+	The paper title: A graph convolution network-based model for prioritizing personalized cancer driver genes of individual patients  
+ 
